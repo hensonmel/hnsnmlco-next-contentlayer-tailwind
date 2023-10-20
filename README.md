@@ -11,8 +11,6 @@ This project is based on [shadcn/next-contentlayer](https://github.com/shadcn/ne
 - Dark mode with `next-themes`
 - Class sorting, merging and linting support for ESLint, Prettier and Tailwind CSS
 
-[Live Demo](https://hnsnmlco-next-contentlayer-tailwind.vercel.app/)
-
 ## License
 
 Licensed under the [MIT license](https://github.com/hensonmel/hnsnmlco-nextjs/blob/master/LICENSE.md).
